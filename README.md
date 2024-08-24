@@ -8,7 +8,3 @@ No se, este es el primer cambio de la rama-detalles
 
 Cambio 1 rama-detalles
 Cambio 2 rama-detalles
-Cambio 1 en rama main
-
-Que raro, me hace falta una línea
-
