@@ -7,3 +7,4 @@ Cómo harán este semestre para sacar una buena nota? Estudiando desde antes y l
 No se, este es el primer cambio de la rama-detalles
 
 Cambio 1 rama-detalles
+Cambio 2 rama-detalles
